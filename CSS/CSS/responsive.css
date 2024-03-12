@@ -1,0 +1,14 @@
+@media screen and (max-width:1023px) {
+    body{
+        background-color: red;
+    }
+}
+
+.linksElements{
+    padding: 110px 0px 0px 90px;
+}
+.links{
+    list-style: none;
+    margin: 20px 0px 0px 150px;
+    font-size: 18px;
+}
